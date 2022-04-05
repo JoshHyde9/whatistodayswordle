@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d915f0c4.css",
-    "main.js": "/static/js/main.0a639a23.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.d915f0c4.css.map": "/static/css/main.d915f0c4.css.map",
-    "main.0a639a23.js.map": "/static/js/main.0a639a23.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/whatistodayswordle/static/css/main.d915f0c4.css",
+    "main.js": "/whatistodayswordle/static/js/main.82131b4a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/whatistodayswordle/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/whatistodayswordle/index.html",
+    "main.d915f0c4.css.map": "/whatistodayswordle/static/css/main.d915f0c4.css.map",
+    "main.82131b4a.js.map": "/whatistodayswordle/static/js/main.82131b4a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/whatistodayswordle/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d915f0c4.css",
-    "static/js/main.0a639a23.js"
+    "static/js/main.82131b4a.js"
   ]
 }
